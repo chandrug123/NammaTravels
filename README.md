@@ -90,6 +90,25 @@ Supported future languages: Tamil (ta), Telugu (te), Hindi (hi), Malayalam (ml),
 
 ## Deployment
 
+### GitHub Pages (Recommended – Auto Deploy)
+
+1. Push this repo to GitHub (repo name: `NammaTravels`)
+2. Go to **Settings → Pages → Source** → select **GitHub Actions**
+3. Add the following **Repository Secrets** under **Settings → Secrets → Actions**:
+
+| Secret | Value |
+|---|---|
+| `VITE_PHONE_NUMBER` | `+919876543210` |
+| `VITE_WHATSAPP_NUMBER` | `919876543210` |
+| `VITE_BUSINESS_EMAIL` | `info@nammatravels.com` |
+| `VITE_BUSINESS_NAME` | `Namma Travels` |
+| `VITE_BUSINESS_ADDRESS` | `Bangalore, Karnataka, India` |
+
+4. Push to `main` branch — GitHub Actions will build and deploy automatically.
+5. Site will be live at: `https://<your-username>.github.io/NammaTravels/`
+
+> **Note:** If your repo name is different from `NammaTravels`, update `VITE_BASE_URL` in `.github/workflows/deploy.yml` to match.
+
 ### Netlify / Vercel
 ```bash
 npm run build
