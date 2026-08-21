@@ -1,0 +1,181 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "vehicles": "Vehicles",
+    "travelGuide": "Travel Guide",
+    "booking": "Book Now",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Your Journey, Our Responsibility",
+    "brand": "Namma Travels",
+    "subtitle": "24×7 Reliable Travel Services – Cars, Buses, Travel Guides & Customized Trips.",
+    "bookNow": "Book Now",
+    "callNow": "Call Now – 24×7",
+    "whatsapp": "WhatsApp Us",
+    "badge": "24×7 Available"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive travel solutions for every need",
+    "local": {
+      "title": "Local Trips",
+      "desc": "Comfortable city travel for shopping, appointments, and daily commutes."
+    },
+    "outstation": {
+      "title": "Outstation Trips",
+      "desc": "Long-distance travel to any destination across Karnataka and beyond."
+    },
+    "airport": {
+      "title": "Airport Transfers",
+      "desc": "Punctual pickup and drop for all major airports, 24×7."
+    },
+    "family": {
+      "title": "Family Tours",
+      "desc": "Safe, comfortable family travel with spacious vehicles and expert drivers."
+    },
+    "corporate": {
+      "title": "Corporate Travel",
+      "desc": "Professional employee transport and executive travel solutions."
+    },
+    "wedding": {
+      "title": "Wedding & Events",
+      "desc": "Elegant transportation for weddings, receptions, and special events."
+    },
+    "group": {
+      "title": "Group Tours",
+      "desc": "Organized group travel with mini buses and buses for large parties."
+    },
+    "custom": {
+      "title": "Customized Trips",
+      "desc": "Tailor-made travel packages designed around your schedule and budget."
+    },
+    "guide": {
+      "title": "Travel Guide",
+      "desc": "Expert local guides for sightseeing, destinations, and itinerary planning."
+    },
+    "emergency": {
+      "title": "24×7 Assistance",
+      "desc": "Round-the-clock emergency travel support whenever you need us."
+    }
+  },
+  "vehicles": {
+    "title": "Our Fleet",
+    "subtitle": "Choose the perfect vehicle for your journey",
+    "enquire": "Enquire Now",
+    "capacity": "Capacity",
+    "bestFor": "Best For",
+    "cars": {
+      "title": "Cars",
+      "capacity": "4 Passengers",
+      "bestFor": "City travel, airport transfers, outstation"
+    },
+    "suv": {
+      "title": "SUVs",
+      "capacity": "6–7 Passengers",
+      "bestFor": "Family trips, outstation, group travel"
+    },
+    "luxury": {
+      "title": "Luxury Vehicles",
+      "capacity": "4–6 Passengers",
+      "bestFor": "Corporate, weddings, premium travel"
+    },
+    "tempo": {
+      "title": "Tempo Travellers",
+      "capacity": "9–12 Passengers",
+      "bestFor": "Group tours, family outings, pilgrimages"
+    },
+    "minibus": {
+      "title": "Mini Buses",
+      "capacity": "15–25 Passengers",
+      "bestFor": "Corporate groups, school trips, events"
+    },
+    "bus": {
+      "title": "Buses",
+      "capacity": "35–50 Passengers",
+      "bestFor": "Large groups, tours, pilgrimages"
+    }
+  },
+  "guide": {
+    "title": "Travel Guide Services",
+    "subtitle": "Plan your perfect journey with our expert guidance",
+    "destination": {
+      "title": "Destination Guidance",
+      "desc": "Expert advice on the best destinations in Karnataka and across India."
+    },
+    "sightseeing": {
+      "title": "Sightseeing Recommendations",
+      "desc": "Curated must-see attractions, hidden gems, and local experiences."
+    },
+    "planning": {
+      "title": "Trip Planning",
+      "desc": "Complete itinerary planning from departure to return."
+    },
+    "local": {
+      "title": "Local Travel Assistance",
+      "desc": "On-ground support for local transport, dining, and accommodation."
+    },
+    "itinerary": {
+      "title": "Custom Itineraries",
+      "desc": "Personalized travel plans tailored to your interests and budget."
+    },
+    "group": {
+      "title": "Group & Family Planning",
+      "desc": "Specialized planning for family vacations and group adventures."
+    }
+  },
+  "booking": {
+    "title": "Book Your Trip",
+    "subtitle": "Fill in your details and we'll get back to you shortly",
+    "name": "Full Name",
+    "mobile": "Mobile Number",
+    "whatsapp": "WhatsApp Number",
+    "pickup": "Pickup Location",
+    "destination": "Destination",
+    "travelDate": "Travel Date",
+    "returnDate": "Return Date (Optional)",
+    "vehicleType": "Vehicle Type",
+    "passengers": "Number of Passengers",
+    "requirements": "Additional Requirements",
+    "selectVehicle": "Select Vehicle Type",
+    "requestQuote": "Request a Quote",
+    "bookWhatsapp": "Book via WhatsApp",
+    "success": "Thank you! We'll contact you shortly.",
+    "errors": {
+      "nameRequired": "Name is required",
+      "mobileRequired": "Mobile number is required",
+      "mobileInvalid": "Enter a valid 10-digit mobile number",
+      "pickupRequired": "Pickup location is required",
+      "destinationRequired": "Destination is required",
+      "dateRequired": "Travel date is required",
+      "vehicleRequired": "Please select a vehicle type",
+      "passengersRequired": "Number of passengers is required"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Available 24×7 – Call Us Anytime",
+    "callNow": "Call Now",
+    "whatsapp": "WhatsApp",
+    "email": "Email Us",
+    "address": "Our Location",
+    "available": "Available 24×7",
+    "availableDesc": "We are always available to assist you, day or night."
+  },
+  "footer": {
+    "tagline": "Your trusted travel partner for every journey.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "madeWith": "Made with ❤️ for Karnataka"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "callUs": "Call Us",
+    "whatsappUs": "WhatsApp Us",
+    "available247": "24×7 Available",
+    "bookNow": "Book Now"
+  }
+}
